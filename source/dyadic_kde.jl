@@ -1,0 +1,8 @@
+include("../source/dyadic_helpers.jl")
+include("../source/dyadic_data_generation.jl")
+include("../source/dyadic_estimation.jl")
+include("../source/dyadic_evaluation_points.jl")
+include("../source/dyadic_truth.jl")
+include("../source/dyadic_diagnosis.jl")
+include("../source/dyadic_experiments.jl")
+include("../source/dyadic_plotting.jl")
